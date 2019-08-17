@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+.banner{
+    width: 100%;
+    height: 900px;
+}
+
+.content{
+    width: 70%;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+.griff {
+    background-color: #7F0909;
+    color: #FFC500;
+}
+
+.slyth {
+    background-color: #0D6217;
+    color: #AAAAAA;
+}
+
+.raven {
+    background-color: #000A90;
+    color: #946B2D;
+}
+
+.huff{
+    background-color: #EEE117;
+    color: #000000;
+}
+.und{
+    background-color: bisque ;
+    color: black;
+}
